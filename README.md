@@ -6,8 +6,8 @@ Tools needed to run this app:
 * `yarn` not necessarily
 
 ## Installing
-* `clone` or download this repo
-* `npm install`/`yarn install` to install dependencies
+* `clone` or download this repo.
+* `npm install`/`yarn install` to install dependencies.
 
 ## Running
 `npm test`/`yarn test` runs a test
